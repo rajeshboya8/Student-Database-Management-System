@@ -1,6 +1,6 @@
 # 🎓 Student Management System (ServiceNow)
 
-#LIVE VEDIO LINK : https://drive.google.com/file/d/1unaJRU5P5tJbcl22DBJAemYyfAjX4o9G/view?usp=drive_link
+# LIVE VEDIO LINK : https://drive.google.com/file/d/1unaJRU5P5tJbcl22DBJAemYyfAjX4o9G/view?usp=drive_link
 
 
 📌 Overview
